@@ -12,10 +12,35 @@
 					<value name="order" type="int">0</value>
 					<value name="type" type="string">open_air</value>
 					<object name="type_settings">
+						<object id="133D015A">
+							<value name="height" type="float">200</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v067_speedplane.ee</value>
+						</object>
+						<object id="133D015B">
+							<value name="height" type="float">200</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v071_jet_fighter.ee</value>
+						</object>
 						<object id="133D015C">
 							<value name="height" type="float">250</value>
 							<value name="speed" type="float">80</value>
 							<value name="type" type="string">arve.v064_personal_jet.ee</value>
+						</object>
+						<object id="133D015D">
+							<value name="height" type="float">200</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v072_cargo_plane.ee</value>
+						</object>
+						<object id="133D015E">
+							<value name="height" type="float">200</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v076_jet_blackplane.ee</value>
+						</object>
+						<object id="133D015F">
+							<value name="height" type="float">200</value>
+							<value name="speed" type="float">20</value>
+							<value name="type" type="string">arve.v114_jumbojet.ee</value>
 						</object>
 						<object id="94B8CC9F">
 							<value name="height" type="float">200</value>
@@ -48,11 +73,41 @@
 					<value id="6FFCCC84" type="int">1</value>
 					<value id="A7347FF4" type="string">arctic:180 desert:180 jungle:180 grass:180 default:180 sea:180</value>
 				</object>
+				<object id="F6610217">
+					<value name="type" type="string">arve.v067_speedplane.ee</value>
+					<value id="356556A1" type="string">city:170 industry:170 tourist:170 village:170 religious:170 default:170</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:170 desert:170 jungle:170 grass:170 default:170 sea:170</value>
+				</object>
+				<object id="F6610218">
+					<value name="type" type="string">arve.v071_jet_fighter.ee</value>
+					<value id="356556A1" type="string">city:160 industry:160 tourist:160 village:160 religious:160 default:160</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:160 desert:160 jungle:160 grass:160 default:160 sea:160</value>
+				</object>
+				<object id="F6610219">
+					<value name="type" type="string">arve.v072_cargo_plane.ee</value>
+					<value id="356556A1" type="string">city:150 industry:150 tourist:150 village:150 religious:150 default:150</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:150 desert:150 jungle:150 grass:150 default:150 sea:150</value>
+				</object>
+				<object id="F6610220">
+					<value name="type" type="string">arve.v076_jet_blackplane.ee</value>
+					<value id="356556A1" type="string">city:140 industry:140 tourist:140 village:140 religious:140 default:140</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:140 desert:140 jungle:140 grass:140 default:140 sea:140</value>
+				</object>
+				<object id="F6610221">
+					<value name="type" type="string">arve.v114_jumbojet.ee</value>
+					<value id="356556A1" type="string">city:130 industry:130 tourist:130 village:130 religious:130 default:130</value>
+					<value id="6FFCCC84" type="int">1</value>
+					<value id="A7347FF4" type="string">arctic:130 desert:130 jungle:130 grass:130 default:130 sea:130</value>
+				</object>
 				<object id="F689AE2D">
 					<value name="type" type="string">arve.v010_personal_propellerplane.ee</value>
-					<value id="356556A1" type="string">city:90 industry:90 tourist:90 village:90 religious:90 default:90</value>
+					<value id="356556A1" type="string">city:120 industry:120 tourist:120 village:120 religious:120 default:120</value>
 					<value id="6FFCCC84" type="int">1</value>
-					<value id="A7347FF4" type="string">arctic:90 desert:90 jungle:90 grass:90 default:90 sea:90</value>
+					<value id="A7347FF4" type="string">arctic:120 desert:120 jungle:120 grass:120 default:120 sea:120</value>
 				</object>
 			</object>
 		</object>
