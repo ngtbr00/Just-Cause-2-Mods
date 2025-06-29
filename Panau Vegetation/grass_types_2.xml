@@ -4,7 +4,7 @@
 		<value name="texture" type="string">global_grass_DIF.dds</value>
 		<object id="D99A4E2D">
 			<object name="0">
-				<value name="height" type="float">0.4</value>
+				<value name="height" type="float">1</value>
 				<value name="name" type="string">Desert_Grass_Dry</value>
 				<value name="width" type="float">0.7</value>
 				<value id="090D5EE6" type="float">0.75</value>
