@@ -288,14 +288,14 @@
 			<value id="A02260FB" type="int">3</value>
 			<object id="15EDFEA4">
 				<value id="0FF60EE4" type="int">1</value>
-				<value id="2A8EC861" type="float">50</value>
-				<value id="6FC9A225" type="float">25</value>
-				<value id="873600DC" type="float">100</value>
-				<value id="892F11C1" type="float">160</value>
-				<value id="AE6B4467" type="float">30</value>
-				<value id="DAE41C96" type="float">140</value>
-				<value id="EFB21DEC" type="float">160</value>
-				<value id="F01CB880" type="float">120</value>
+				<value id="2A8EC861" type="float">25</value>
+				<value id="6FC9A225" type="float">12.5</value>
+				<value id="873600DC" type="float">50</value>
+				<value id="892F11C1" type="float">80</value>
+				<value id="AE6B4467" type="float">15</value>
+				<value id="DAE41C96" type="float">70</value>
+				<value id="EFB21DEC" type="float">80</value>
+				<value id="F01CB880" type="float">60</value>
 			</object>
 			<object id="C962F42E">
 				<object id="06063941">
